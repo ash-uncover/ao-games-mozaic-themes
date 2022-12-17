@@ -1,0 +1,14 @@
+{
+  "name": "mozaic-themes/samourai",
+  "url": "https://ash-uncover.github.io/ap-games-mozaic-themes/themes/samourai",
+  "provides": {
+    "mozaic-themes/theme": {
+      "name": "samourai",
+      "attributes": {
+        "name": "Samourai",
+        "description": "A japanese inspired theme",
+        "images": []
+      }
+    }
+  }
+}
