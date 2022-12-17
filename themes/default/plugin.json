@@ -3,7 +3,7 @@
   "url": "https://ash-uncover.github.io/ap-games-mozaic-themes/themes/default",
   "provides": {
     "mozaic-themes/theme": {
-      "properties": {
+      "attributes": {
         "name": "Default",
         "description": "The default theme",
         "images": []

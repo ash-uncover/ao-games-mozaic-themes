@@ -3,7 +3,7 @@
   "url": "https://ash-uncover.github.io/ap-games-mozaic-themes/themes/lol",
   "provides": {
     "mozaic-themes/theme": {
-      "properties": {
+      "attributes": {
         "name": "League of Legends",
         "description": "A League of Legends inspired theme",
         "thumbnail": "/thumbnail.jpg",
