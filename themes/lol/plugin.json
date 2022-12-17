@@ -4,7 +4,7 @@
   "provides": {
     "mozaic-themes/theme": {
       "properties": {
-        "name": "League of Legends theme",
+        "name": "League of Legends",
         "description": "A League of Legends inspired theme",
         "thumbnail": "/thumbnail.jpg",
         "background": "/background.jpg",
