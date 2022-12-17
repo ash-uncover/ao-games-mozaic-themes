@@ -4,17 +4,5 @@
   "dependencies": [
     "https://ash-uncover.github.io/ap-games-mozaic-themes/themes/samourai/plugin.json",
     "https://ash-uncover.github.io/ap-games-mozaic-themes/themes/lol/plugin.json"
-  ],
-  "defines": {
-    "theme": {
-      "attributes": {
-        "name": "string",
-        "description": "string",
-        "thumbnail?": "url",
-        "background?": "url",
-        "images": "url[]",
-        "music?": "url[]"
-      }
-    }
-  }
+  ]
 }

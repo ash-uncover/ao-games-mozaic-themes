@@ -1,8 +1,8 @@
 {
-  "name": "mozaic-themes/samourai",
+  "name": "mozaic/themes/samourai",
   "url": "https://ash-uncover.github.io/ap-games-mozaic-themes/themes/samourai",
   "provides": {
-    "mozaic-themes/theme": {
+    "mozaic/theme": {
       "name": "samourai",
       "attributes": {
         "name": "Samourai",
