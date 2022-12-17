@@ -1,4 +1,19 @@
 {
   "name": "mozaic-themes",
-  "url": "http://localhost:8080"
+  "url": "https://ash-uncover.github.io/ap-games-mozaic-themes/",
+  "dependencies": [
+    "https://ash-uncover.github.io/ap-games-mozaic-themes/themes/default/plugin.json",
+    "https://ash-uncover.github.io/ap-games-mozaic-themes/themes/lol/plugin.json"
+  ],
+  "defines": {
+    "theme": {
+      "properties": {
+        "name": "string",
+        "description": "string",
+        "thumbnail?": "url",
+        "background?": "url",
+        "images": "url[]"
+      }
+    }
+  }
 }
