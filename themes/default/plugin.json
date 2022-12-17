@@ -1,17 +1,12 @@
 {
   "name": "mozaic-themes/default",
-  "url": "https://ash-uncover.github.io/ap-games-mozaic-themes/",
-  "dependencies": [
-    "https://ash-uncover.github.io/ap-games-mozaic-themes/themes/default/plugin.json"
-  ],
+  "url": "https://ash-uncover.github.io/ap-games-mozaic-themes/themes/default",
   "provides": {
     "mozaic-themes/theme": {
       "properties": {
         "name": "Default theme",
         "description": "The default theme",
-        "thumbnail": "url",
-        "background": "url",
-        "images": "url[]"
+        "images": []
       }
     }
   }
