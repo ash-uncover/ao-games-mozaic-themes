@@ -5,8 +5,8 @@
     "mozaic/theme": {
       "name": "recartoon",
       "attributes": {
-        "name": "Kisz Movies",
-        "description": "A theme around famous cartoon heroes",
+        "name": "Animation Characters",
+        "description": "A theme around famous cartoon characters",
         "thumbnail": "/thumbnail.jpg",
         "background": "/background.jpg",
         "images": [
