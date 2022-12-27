@@ -3,6 +3,7 @@
   "url": "https://ash-uncover.github.io/ap-games-mozaic-themes/",
   "dependencies": [
     "https://ash-uncover.github.io/ap-games-mozaic-themes/themes/samourai/plugin.json",
+    "https://ash-uncover.github.io/ap-games-mozaic-themes/themes/recartoon/plugin.json",
     "https://ash-uncover.github.io/ap-games-mozaic-themes/themes/lol/plugin.json"
   ]
 }
