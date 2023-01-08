@@ -8,7 +8,6 @@
         "name": "Animation Characters",
         "description": "A theme around famous cartoon characters",
         "thumbnail": "/thumbnail.jpg",
-        "background": "/background.jpg",
         "images": [
           "/image_0.jpg",
           "/image_1.jpg",
@@ -29,7 +28,12 @@
           "/image_16.jpg",
           "/image_17.jpg",
           "/image_18.jpg",
-          "/image_19.jpg"
+          "/image_19.jpg",
+          "/image_20.jpg",
+          "/image_21.jpg",
+          "/image_22.jpg",
+          "/image_23.jpg",
+          "/image_24.jpg"
         ]
       }
     }
