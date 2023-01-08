@@ -4,16 +4,16 @@
   "provides": {
     "mozaic/theme": {
       "name": "lol",
+      "i18n": "/locales",
       "attributes": {
-        "name": "League of Legends",
-        "description": "A League of Legends inspired theme",
         "thumbnail": "/thumbnail.jpg",
         "background": "/background.jpg",
         "images": [
           "/image_1.jpg",
           "/image_2.jpg",
           "/image_3.jpg"
-        ]
+        ],
+        "music": []
       }
     }
   }
