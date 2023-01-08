@@ -1,11 +1,12 @@
 {
-  "name": "mozaic/themes/lol",
-  "url": "https://ash-uncover.github.io/ap-games-mozaic-themes/themes/lol",
+  "name": "mozaic-themes-game",
+  "url": "https://ash-uncover.github.io/ap-games-mozaic-themes/themes/game",
   "provides": {
     "mozaic/theme": {
-      "name": "lol",
-      "i18n": "/locales",
+      "name": "game",
       "attributes": {
+        "name": "Games",
+        "description": "A Games inspired theme",
         "thumbnail": "/thumbnail.jpg",
         "background": "/background.jpg",
         "images": [

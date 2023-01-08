@@ -1,9 +1,9 @@
 {
-  "name": "mozaic/themes/recartoon",
-  "url": "https://ash-uncover.github.io/ap-games-mozaic-themes/themes/recartoon",
+  "name": "mozaic-themes-anime",
+  "url": "https://ash-uncover.github.io/ap-games-mozaic-themes/themes/anime",
   "provides": {
     "mozaic/theme": {
-      "name": "recartoon",
+      "name": "anime",
       "attributes": {
         "name": "Animation Characters",
         "description": "A theme around famous cartoon characters",
