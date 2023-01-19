@@ -3,8 +3,8 @@
   "url": "https://ash-uncover.github.io/ap-games-mozaic-themes/",
   "dependencies": [
     "https://ash-uncover.github.io/ap-games-mozaic-themes/themes/anime/plugin.json",
+    "https://ash-uncover.github.io/ap-games-mozaic-themes/themes/fantasy/plugin.json",
     "https://ash-uncover.github.io/ap-games-mozaic-themes/themes/game/plugin.json",
-    "https://ash-uncover.github.io/ap-games-mozaic-themes/themes/mya/plugin.json",
     "https://ash-uncover.github.io/ap-games-mozaic-themes/themes/samourai/plugin.json"
   ]
 }
