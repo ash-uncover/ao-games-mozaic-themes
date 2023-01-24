@@ -3,29 +3,30 @@
   "url": "https://ash-uncover.github.io/ap-games-mozaic-themes/themes/game",
   "provides": {
     "mozaic/theme": {
-      "name": "game",
-      "attributes": {
-        "name": "Games",
-        "description": "A Games inspired theme",
-        "thumbnail": "/thumbnail.jpg",
-        "images": [
-          "/image_1.jpg",
-          "/image_2.jpg",
-          "/image_3.jpg",
-          "/image_4.jpg",
-          "/image_5.jpg",
-          "/image_6.jpg",
-          "/image_7.jpg",
-          "/image_8.jpg",
-          "/image_9.jpg",
-          "/image_10.jpg",
-          "/image_11.jpg",
-          "/image_12.jpg",
-          "/image_13.jpg",
-          "/image_14.jpg",
-          "/image_15.jpg"
-        ],
-        "music": []
+      "game": {
+        "attributes": {
+          "name": "Games",
+          "description": "A Games inspired theme",
+          "thumbnail": "/thumbnail.jpg",
+          "images": [
+            "/image_1.jpg",
+            "/image_2.jpg",
+            "/image_3.jpg",
+            "/image_4.jpg",
+            "/image_5.jpg",
+            "/image_6.jpg",
+            "/image_7.jpg",
+            "/image_8.jpg",
+            "/image_9.jpg",
+            "/image_10.jpg",
+            "/image_11.jpg",
+            "/image_12.jpg",
+            "/image_13.jpg",
+            "/image_14.jpg",
+            "/image_15.jpg"
+          ],
+          "music": []
+        }
       }
     }
   }
