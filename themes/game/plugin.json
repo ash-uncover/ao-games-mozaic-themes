@@ -25,7 +25,12 @@
             "/image_14.jpg",
             "/image_15.jpg"
           ],
-          "music": []
+          "music": [
+            "./music_0.mp3",
+            "./music_1.mp3",
+            "./music_2.mp3",
+            "./music_3.mp3"
+          ]
         }
       }
     }

@@ -34,6 +34,13 @@
             "/image_22.jpg",
             "/image_23.jpg",
             "/image_24.jpg"
+          ],
+          "music": [
+            "./music_0.mp3",
+            "./music_1.mp3",
+            "./music_2.mp3",
+            "./music_3.mp3",
+            "./music_4.mp3"
           ]
         }
       }

@@ -1,0 +1,46 @@
+{
+  "name": "mozaic-themes-magic",
+  "url": "https://ash-uncover.github.io/ap-games-mozaic-themes/themes/magic",
+  "provides": {
+    "mozaic/theme": {
+      "magic": {
+        "attributes": {
+          "name": "Magic",
+          "description": "Magic inspired theme",
+          "thumbnail": "/thumbnail.jpg",
+          "images": [
+            "/image_0.jpg",
+            "/image_1.jpg",
+            "/image_2.jpg",
+            "/image_3.jpg",
+            "/image_4.jpg",
+            "/image_5.jpg",
+            "/image_6.jpg",
+            "/image_7.jpg",
+            "/image_8.jpg",
+            "/image_9.jpg",
+            "/image_10.jpg",
+            "/image_11.jpg",
+            "/image_12.jpg",
+            "/image_13.jpg",
+            "/image_14.jpg",
+            "/image_15.jpg",
+            "/image_16.jpg"
+          ],
+          "music": [
+            "./music_0.mp3",
+            "./music_1.mp3",
+            "./music_2.mp3",
+            "./music_3.mp3",
+            "./music_4.mp3",
+            "./music_5.mp3",
+            "./music_6.mp3",
+            "./music_7.mp3",
+            "./music_8.mp3",
+            "./music_9.mp3"
+          ]
+        }
+      }
+    }
+  }
+}
