@@ -18,10 +18,10 @@
             "/image_7.jpg"
           ],
           "music": [
-            "./music_0.mp3",
-            "./music_1.mp3",
-            "./music_2.mp3",
-            "./music_3.mp3"
+            "/music_0.mp3",
+            "/music_1.mp3",
+            "/music_2.mp3",
+            "/music_3.mp3"
           ]
         }
       }
